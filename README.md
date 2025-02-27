@@ -43,5 +43,5 @@
 4.注册失败有提醒，但注册成功无提醒\
 5.exe文件中无法读取开屏动画
 
-Submission date:2024.6.30
+Submission date:2024.6.30\
 Author:Cy
